@@ -22,18 +22,167 @@
 .tarjeta.color-primario
   background-color: #A6DAD7
 
-.card-img
+//CUSTOM PASOS TIPO N CON BORDE
+.pasos-a__circle
+  width: 58px
+  height: 58px
+  min-width: 50px
+  border-radius: 50%
+
+.pasos-a.color-primario .pasos-a__circle 
+  background-color: #FFF
+  border: 3px solid #1D272B
+
+.pasos-a.color-primario .pasos-a__circle div
+  color: #00978E
+  font-size: 28px
+
+.pasos-a.color-primario .pasos-a__numero::after
+  border-left-color: #1D272B
+.pasos-a.color-primario .pasos-a__linea__esquina__linea
+  border-color: #1D272B
+.pasos-a.color-primario .pasos-a__linea .hor-line
+  border-top-color: #1D272B
+// END CUSTOM
+
+.tarjeta-white
   background-color: #F6F6F6
-  box-shadow: 0 0 15px rgba(0,0,0,.3)
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  background: url('../assets/curso/tema2/bg-line1.svg')
+  background-position: right
+  background-size: auto
+  background-repeat: no-repeat
+  &--color-red
+    background-color: #F6F6F6
+    box-shadow: 0px 0px 8px 0px #DEDEDE
+    background: url('../assets/curso/tema2/bg-line2.svg')
+    background-position: right
+    background-size: auto
+    background-repeat: no-repeat
+
+.fondo-verde
+  background: url('../assets/curso/tema3/fondo-verde.svg')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+  &--margen
+    margin-inline: -3rem
+    
+.fa-atom
+  color: #008F85
+
+
+.bloque-texto-a
+  &.reverse
+    &:before
+      left: 0
+      right: 50%
+
+.contenedorLink
+  top: 2px
+
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon
+  background-color: #ffffff
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon:after
+  background-color: #12263F
+
+.tarjeta-fondito
+  background: url('../assets/curso/fondo-banner.png')
+  //background-position: center
+  background-size: auto
+  background-repeat: no-repeat
+
+.cajon-b.abajo-derecha:before
+  left: 25%
+.cajon-b:before 
+  right: 30%
+  bottom: 74%
+
+.slyder-a__bullets 
+  bottom: -18px
+/////////////////HOVERRRRR TARJETAS//////////////////////
+.tarjeta-cyan
+  background: linear-gradient(180deg,#f5f5f5,#ecf6fc)
+  .tarjetaContent
+    .tarjetaImg
+      border-bottom: 7px solid #008F85
+    .tarjetaTxt
+      border-top: 7px solid #008F85
+
+.tarjeta-purpura
+  background: linear-gradient(180deg,#f5f5f5,#ecf6fc)
+  .tarjetaContent
+    .tarjetaImg
+      border-bottom: 7px solid #D93328
+    .tarjetaTxt
+      border-top: 7px solid #D93328
+
+$tarjeta-dimension: 270px
+.tarjeta-container
   position: relative
-  width: 100%
-  //margin-inline: 4px
-  p
-    padding-top: 2rem
-    padding-bottom: 2rem
-    padding-inline: 1rem
+  overflow: hidden
+  width: $tarjeta-dimension
+  height: 186px
+  border-radius: 0    
+  
+  .tarjetaContent
+    position: relative    
+    top: 0 
+    left: 0      
+    transition: all 0.45s 0s ease
+    .tarjetaImg, .tarjetaTxt 
+      display: flex
+      flex-direction: column
+      justify-content: center
+      align-items: center          
+      width: $tarjeta-dimension
+      height: 186px
+      padding: 2rem
+    .tarjetaImg     
+    .tarjetaTxt
+      text-align: center
+  
+  &:hover
+    .tarjetaContent
+      top: -186px
+//////////////////////
+
+
+@media screen and ( min-width: $bp-min-xl)
+  .img-size
+    width: 476px
+  .img-size2
+    width: 590px
+@media screen and ( max-width: $bp-max-lg)
+  .img-size
+    width: 300px
+  .img-size2
+    width: 350px
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+/*.round--number
+  width: 50px
+  height: 50px
+  background-color: white
+  border: 3px solid #57DBD8
+  border-radius: 999px
+  p 
+    font-size: 25px
+    font-weight: 800
+    text-align: center
+    padding-top: 3px
+/*.tarjeta.tarjeta--gris
+  padding: 1.5rem
 

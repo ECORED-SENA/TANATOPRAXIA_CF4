@@ -80,33 +80,65 @@
     .row.justify-content-center.mb-4
       .col-lg-4
         figure
-          img(src='@/assets/curso/tema1/img6.svg', alt='imagen ambiental', style='width:360px;')
+          img.mx-auto.mb-4(src='@/assets/curso/tema1/img6.svg', alt='imagen ambiental', style='width:360px;')
       .col-lg-8
         p.mb-4 Por ello, desde el primer contacto del cliente con la funeraria hasta la finalización del servicio, se debe trabajar para que el deudor se sienta comprendido, valorado, apoyado y acompañado. Esta es la tarea de todo el personal de la funeraria. Algunos aspectos que el cliente funerario espera en todo servicio es obtener información clara y rápida, asesoramiento de los trámites legales necesarios, atención humana y personalizada, un servicio de calidad y profesionalidad e intimidad. 
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 Como ya se ha mencionado, la atención que precisa el cliente de los servicios funerarios es diferente porque no es un cliente voluntario, debido a que no ha decidido buscar algo que necesita y que pueda comparar entre varias empresas. Estos clientes cuentan con características especiales, entre ellas  se encuentran:
 
     .row.justify-content-center
-      .col-lg-4
-        .card-img
-          figure(style='border-top: #1D272B solid 6px')
-            img(src='@/assets/curso/tema1/img7.jpg', alt='imagen ambiental', style='width:398px;')
-          p.mb-4 Los clientes llegan a la funeraria de una manera precipitada e inesperada, aunque sea un fallecimiento inminente siempre se acude con cierto grado de desorientación.
+      .col-lg-4.mb-4
+        figure(style='')
+          img.mx-auto(src='@/assets/curso/tema1/img7.jpg', alt='imagen ambiental', style='width:398px; border-top: #1D272B solid 6px')
+        .p-4(style='background-color: #F6F6F6; box-shadow: 0 0 15px rgba(0,0,0,.3)')
+          p.mb-5 Los clientes llegan a la funeraria de una manera precipitada e inesperada, aunque sea un fallecimiento inminente siempre se acude con cierto grado de desorientación.
 
-      .col-lg-4
-        .card-img
-          figure(style='border-top: #16978E solid 6px')
-            img(src='@/assets/curso/tema1/img8.jpg', alt='imagen ambiental', style='width:398px;')
-          p.mb-4 Los clientes se encuentran en estado emocional complejo, ya que la noticia del fallecimiento de un ser amado es un golpe duro y doloroso. Este estado puede dificultar la realización de algunos trámites, lo que puede provocar que el trato con ellos no sea fácil.
+      .col-lg-4.mb-4
+        figure(style='')
+          img.mx-auto(src='@/assets/curso/tema1/img8.jpg', alt='imagen ambiental', style='width:398px; border-top: #00978E solid 6px')
+        .p-4(style='background-color: #F6F6F6; box-shadow: 0 0 15px rgba(0,0,0,.3)')
+          p.mb-0 Los clientes se encuentran en estado emocional complejo, ya que la noticia del fallecimiento de un ser amado es un golpe duro y doloroso. Este estado puede dificultar la realización de algunos trámites, lo que puede provocar que el trato con ellos no sea fácil.
 
-      .col-lg-4
-        .card-img
-          figure(style='border-top: #1D272B solid 6px')
-            img(src='@/assets/curso/tema1/img9.jpg', alt='imagen ambiental', style='width:398px;')
-          p.mb-4 Los clientes pueden ser muy exigentes, por lo regular se busca obtener el mejor servicio, buscando la relación calidad precio.
+      .col-lg-4.col-sm-auto.mb-4
+        figure(style='')
+          img.mx-auto(src='@/assets/curso/tema1/img9.jpg', alt='imagen ambiental', style='width:398px; border-top: #1D272B solid 6px')
+        .p-4(style='background-color: #F6F6F6; box-shadow: 0 0 15px rgba(0,0,0,.3)')
+          p.pb-4.mb-5 Los clientes pueden ser muy exigentes, por lo regular se busca obtener el mejor servicio, buscando la relación calidad precio.
 
-      
+    p.mb-4 Para realizar la atención en un servicio funerario se deben conocer los deseos y las expectativas del cliente, pero para esto se necesita que la empresa funeraria tenga claras sus directrices para así, cumplir con estas necesidades. Por todo lo anterior el personal contará con capacidades básicas en servicio al cliente funerario, como son:
 
+    .row.justify-content-center.mb-4
+      .col-auto.mb-2
+        figure(style='')
+          img.mx-auto(src='@/assets/curso/tema1/img10.svg', alt='seguridad', style='width:218px;')
+      .col-auto.mb-2
+        figure(style='')
+          img.mx-auto(src='@/assets/curso/tema1/img11.svg', alt='Credibilidad y confianza', style='width:218px;')
+      .col-auto.mb-2
+        figure(style='')
+          img.mx-auto(src='@/assets/curso/tema1/img12.svg', alt='Comunicación y cortesía', style='width:218px;')
+      .col-auto.mb-2
+        figure(style='')
+          img.mx-auto(src='@/assets/curso/tema1/img13.svg', alt='Profesionalismo y eficacia', style='width:218px;')
+
+    p.mb-4 Todo esto para mostrar respeto hacia el dolor que sufren los clientes, y no solamente es decirlo sino también respetar profundamente sus expresiones de dolor, sus creencias, costumbres y deseos, sin juzgar lo que la familia hace, dice, cree u opina; por eso es de gran ayuda disponer y desarrollar habilidades a la hora de comunicarse y desenvolverse con algunos tipos de personas que están pasando por un momento de estrés e inestabilidad emocional, como lo es la pérdida de ser querido.
+
+    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-8
+          .bloque-texto-a__texto.p-4
+            p.mb-2 En esta sección del componente de formación se describieron algunos aspectos relacionados con el servicio al cliente. Con la intención que usted siga construyendo conocimiento en torno a esta temática le sugerimos revisar el texto “Atención al cliente y calidad en el servicio” especialmente las unidades de aprendizaje: importancia de la atención al cliente y la comunicación. Fases en la atención al cliente. Este texto fue escrito por Innovación y Cualificación, S. L., Miguel Ángel Mateos de Pablo Blanco en el año 2019.
+            .row.justify-content-end
+              .col-auto
+                a.anexo.mb-4.mb-lg-0(href="https://www.google.com/url?q=https://www-ebooks7-24-com.bdigital.sena.edu.co/stage.aspx?il%3D%26pg%3D%26ed%3D&sa=D&source=editors&ust=1631026531697000&usg=AOvVaw3WGhDhWsG3MJa-aK_aXBiz" target="_blank" style='background-color: #f6f6f6;')
+                  .anexo__icono
+                    img(src="@/assets/template/icono-link.svg")
+                  .anexo__texto
+                    p(style='color: #12263f') Enlace web. Biblioteca SENA - Atención al cliente y calidad de servicio.
+        .col-lg-4.mb-4.mb-lg-0
+          figure
+            img.mx-auto(src='@/assets/curso/tema1/img14.svg', alt='imagen ambiental', style='width:286px;')
+    
 
 
 

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1336.008" height="696.843" viewBox="0 0 1336.008 696.843">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_108754" data-name="Trazado 108754" d="M0,751.992H1333.008V403.57H0Z" transform="translate(0 -403.57)" fill="#e6e6e6"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Trazado_108756" data-name="Trazado 108756" d="M0,403.57H1333.008V751.992H0Z" transform="translate(0 -403.57)" fill="#e6e6e6"/>
+    </clipPath>
+  </defs>
+  <g id="fondo-verde" transform="translate(-551.992 -6718.023)">
+    <g id="Enmascarar_grupo_66" data-name="Enmascarar grupo 66" transform="translate(554.992 6718.023)" clip-path="url(#clip-path)">
+      <path id="Trazado_108753" data-name="Trazado 108753" d="M1431.243,950.028c197.683,103.89,415.7,163.594,636.238,91.793,437.484-142.43,437-110.969,437-110.969v661.841h-1450.6V869.038S1206.109,831.713,1431.243,950.028Z" transform="translate(-1080.854 -811.035)" fill="#e6e6e6" opacity="0.2"/>
+    </g>
+    <g id="Enmascarar_grupo_67" data-name="Enmascarar grupo 67" transform="translate(551.992 7066.445)" clip-path="url(#clip-path-2)">
+      <path id="Trazado_108755" data-name="Trazado 108755" d="M1431.243,1506.118c197.683-103.89,415.7-163.594,636.238-91.793,437.484,142.43,437,110.969,437,110.969V863.452h-1450.6v723.655S1206.109,1624.433,1431.243,1506.118Z" transform="translate(-1080.854 -1296.69)" fill="#e6e6e6" opacity="0.2"/>
+    </g>
+  </g>
+</svg>
