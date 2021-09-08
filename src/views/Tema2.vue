@@ -68,9 +68,9 @@
                 .tarjeta-avatar-b__img(style='')
                   img.mx-auto(src='@/assets/curso/tema2/icon4.svg' alt='AvatarTop' style='width: 92px;')
 
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
+    .bloque-texto-a.color-secundario.p-4.p-md-4.mb-5 
       .row.m-0.align-items-center.justify-content-between
-        .col-lg-9
+        .col-lg-9.mb-2
           .bloque-texto-a__texto.p-4
             p Se habla de diferentes tipos de duelo según el tipo de muerte del ser querido, debido a que son diferentes escenarios y contextos en los que una persona puede fallecer, y estos afectan el proceso del duelo de los sobrevivientes. Estos tipos de muertes son:
         .col-lg-3.mb-4.mb-lg-0

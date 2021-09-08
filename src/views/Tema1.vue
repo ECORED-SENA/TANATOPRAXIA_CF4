@@ -18,7 +18,7 @@
           p.mb-0 Para prestar un servicio al cliente durante un traslado de un resto mortal es necesario entender qué es un servicio al cliente: ¿qué es para usted un servicio al cliente? ¿Qué características tiene un servicio al cliente en el contexto funerario? Para más información revisar el siguiente recurso educativo.
 
     p.mb-4 El servicio al cliente son todas las acciones implementadas para los clientes en el proceso de la compra de un producto o servicio, iniciando desde el antes, pasando por el durante y terminado después de la compra. Todo esto encaminado a cumplir con las exigencias del cliente y su satisfacción.
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-54
+    .bloque-texto-a.color-secundario.p-4.p-md-4.mb-5
       .row.m-0.align-items-center.justify-content-between
         .col-lg-9
           .bloque-texto-a__texto.p-5
@@ -64,15 +64,15 @@
     .tarjeta--container.row.mb-4
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-5
-          .col-4
+          .col-auto
             figure
-              img(src='@/assets/curso/tema1/img4.svg', alt='icono que acompaña')
+              img(src='@/assets/curso/tema1/img4.svg', alt='icono que acompaña', style='width:200px;')
         p.text-center Medina (2009), considera que “la calidad es una metodología sistemática, coherente y participativa, cuyo propósito es perfeccionar los procesos para mejorar las aptitudes y atributos de los productos o servicios, para maximizar la satisfacción de las necesidades y expectativas de los consumidores y usuarios” (pág. 162).
       .col-md.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-5
-          .col-4
+          .col-auto
             figure
-              img(src='@/assets/curso/tema1/img5.svg', alt='icono que acompaña')
+              img(src='@/assets/curso/tema1/img5.svg', alt='icono que acompaña', style='width:200px;')
         p.text-center(style='color: #12263f') Pérez (2016) concluye que, “la calidad de servicio se considera como el medio de poder lograr la satisfacción del cliente utilizando métodos innovadores que ayuden a complementar para brindar el servicio esperado por el cliente” (pág. 31).
 
     p.mb-4 Hasta aquí se expuso una aproximación a los conceptos que giran en torno al servicio al cliente, los cuales se validan en el sector funerario, pero la prestación de un servicio o selección de un producto lo hace un cliente que está inmerso en diferentes situaciones emocionales, desde la tristeza hasta el odio. El cliente que se acerca a un servicio de traslado de un resto mortal no se caracteriza por su frecuencia en la compra, sino que es un requerimiento transitorio.
@@ -125,7 +125,7 @@
 
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
-        .col-lg-8
+        .col-lg-8.mb-2
           .bloque-texto-a__texto.p-4
             p.mb-2 En esta sección del componente de formación se describieron algunos aspectos relacionados con el servicio al cliente. Con la intención que usted siga construyendo conocimiento en torno a esta temática le sugerimos revisar el texto “Atención al cliente y calidad en el servicio” especialmente las unidades de aprendizaje: importancia de la atención al cliente y la comunicación. Fases en la atención al cliente. Este texto fue escrito por Innovación y Cualificación, S. L., Miguel Ángel Mateos de Pablo Blanco en el año 2019.
             .row.justify-content-end
