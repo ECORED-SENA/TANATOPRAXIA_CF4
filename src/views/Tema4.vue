@@ -45,6 +45,9 @@
     
     p.mb-4 Luego de realizar la recepción y adecuación del cadáver para el inicio del traslado inicial, el proceso de traslado deberá seguir los siguientes lineamientos (ICONTEC, 2017):
     
+
+
+
     .tarjeta.tarjeta-fondito.p-4.mb-5
       SlyderA
         .row.justify-content-center
@@ -54,7 +57,7 @@
               p.mb-0 Gafas, guantes, tapabocas y traje de protección antiluidos - Bata. La selección y uso correcto de los elementos mencionados son un mecanismo exigido por lineamientos sanitarios. Cuando usted los implementa está disminuyendo riesgos biológicos, químicos o físicos para la sociedad y usted. 
           .col-md-5.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/tema4/img5.jpg', alt='elementos de protección', style="width: 456px;")
+              img.mx-auto(src='@/assets/curso/tema4/img5.jpg', alt='elementos de protección', style="width: 456px;")
         
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0
@@ -164,7 +167,7 @@
 
     separador
     #t_4_2.titulo-segundo
-      .h2 4.2 
+      .h2 4.2 Traslado intermedio
     
     p.mb-4 Consiste en llevar los restos mortales de la sala de embalsamamiento al sitio de velación o lugar de donde se realizan los rituales de despedida. Estos pueden ser cerca del lugar de fallecimiento, entre ciudades o entre países.
     p.mb-4 Si el destino intermedio es la velación del cadáver, el conductor del vehículo tendrá que:
@@ -478,35 +481,35 @@
     .tarjeta.tarjeta-fondito.p-4.mb-5
       SlyderA
         .row.justify-content-center
-          .col-md-5.mb-4.mb-md-0.align-self-center
-            .cajon-b.abajo-derecha.color-primario.p-0.mb-5
+          .col-md-6.col-lg-5.mb-4.mb-md-0.align-self-center
+            .cajon-b.abajo-derecha.color-primario.p-0.mb-4
               p.mb-0 Usar algodón impregnado en solución desinfectante para cubrir orificios naturales, envolver en tela antifluido o sábana el cadáver completamente sin retirar ningún elemento usado para su tratamiento. Luego embalar el cadáver usando una bolsa anteriormente mencionada, rociar con desinfectante el interior de esta antes de realizar el cierre final, posteriormente desinfectar el exterior de la bolsa. Luego se coloca la primera bolsa dentro de la segunda, y se repite el procedimiento de desinfección. Culminado este proceso, quien manipuló el cadáver deberá realizar la desinfección externa de los guantes usados con alcohol isopropílico al 70%.
-          .col-md-5.mb-4.mb-md-0
+          .col-md-6.col-lg-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema4/img29.jpg', alt='Envolver cadaver en tela antifluido', style="width: 456px;")
         
         .row.justify-content-center
-          .col-md-5.mb-4.mb-md-0
+          .col-md-6.col-lg-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema4/img30.jpg', alt='Traslado del cuerpo al equipo funerario', style="width: 456px;")
-          .col-md-5.mb-4.mb-md-0.align-self-center
-            .cajon-b.color-primario.p-0.mb-5
+          .col-md-6.col-lg-5.mb-4.mb-md-0.align-self-center
+            .cajon-b.color-primario.p-0.mb-4
               p.mb-4 Después de este embalaje, el personal de salud informará al personal funerario y se realizará la entrega del cuerpo siguiendo la ruta establecida, donde se garantizan las condiciones de bioseguridad sin poner en riesgo al personal circundante, en la morgue o depósito de cadáveres, este personal deberá realizar el depósito en el ataúd o contenedor de cremación y posterior traslado al destino final. Cabe aclarar que el personal de traslado funerario deberá usar los elementos de protección personal anteriormente descritos.
               p.mb-0 Se trasladará el cuerpo en un carro fúnebre destinado exclusivamente para este fin.
         .row.justify-content-center
-          .col-md-5.mb-4.mb-md-0.align-self-center
-            .cajon-b.abajo-derecha.color-primario.p-0.mb-5
+          .col-md-6.col-lg-5.mb-4.mb-md-0.align-self-center
+            .cajon-b.abajo-derecha.color-primario.p-0.mb-4
               p.mb-0 El personal del cementerio u horno crematorio deberá contar con los elementos de protección personal y demás medidas que garanticen su seguridad personal.
-          .col-md-5.mb-4.mb-md-0
+          .col-md-6.col-lg-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema4/img31.jpg', alt='Elementos de protección', style="width: 456px;")
         
         .row.justify-content-center
-          .col-md-5.mb-4.mb-md-0
+          .col-md-6.col-lg-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema4/img32.jpg', alt='Limpieza y desinfección del area', style="width: 456px;")
-          .col-md-5.mb-4.mb-md-0.align-self-center
-            .cajon-b.color-primario.p-0.mb-5
+          .col-md-6.col-lg-5.mb-4.mb-md-0.align-self-center
+            .cajon-b.color-primario.p-0.mb-4
               p.mb-0 Luego del retiro del cuerpo la habitación u área de atención donde se realizó el aislamiento anteriormente descrito deberá pasar por un proceso de limpieza y desinfección siguiendo las recomendaciones del comité de infecciones. Al igual se realizará la desinfección del vehículo y elementos usados durante el traslado.
               
 
