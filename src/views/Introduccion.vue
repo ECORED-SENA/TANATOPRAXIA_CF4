@@ -25,32 +25,32 @@
       .col-lg-7.mb-5
         LineaTiempoD.color-primario
           .row(numero="1" titulo="¿Cómo iniciar este proceso de aprendizaje?")
-            .col-md-12.mb-4.mb-md-0.px-4
+            .col-md-12.mb-4.mb-md-0.px-4.padding-lineaTop
               ul.lista-ul
                 li 
                   i.fas.fa-angle-right
                   p.mb-0 Para iniciar este proceso de aprendizaje debe reconocer su interés por el traslado de restos mortales a partir de la aplicación de protocolos de bioseguridad y la normatividad colombiana.
                   
           .row(numero="2" titulo="¿Qué elementos tengo para aprender?")
-            .col-md-12.mb-4.mb-md-0.px-4
+            .col-md-12.mb-4.mb-md-0.px-4.padding-lineaTop
               ul.lista-ul
                 li 
                   i.fas.fa-angle-right
-                  p.mb-0 Usted tiene a su disposición un conjunto de recursos de aprendizaje para desarrollar conocimientos, habilidades y actitudes. Entre ellos: gráficos, videos, textos de los autores del componentes y otros.
+                  p.mb-0 Usted tiene a su disposición un conjunto de recursos de aprendizaje para desarrollar conocimientos, habilidades y actitudes. Entre ellos: gráficos, videos, textos de los autores del componente y otros.
                   
           .row(numero="3" titulo="Cuál es el propósito de este momento de aprendizaje?")
-            .col-md-12.mb-4.mb-md-0.px-4
+            .col-md-12.mb-4.mb-md-0.px-4.padding-lineaTop
               ul.lista-ul
                 li 
                   i.fas.fa-angle-right
-                  p.mb-0 El propósito de este momento pretende que usted desarrolle conocimientos, habilidades y actitudes para el desarrollo de un traslado de cadáver.
+                  p.mb-0 El propósito de este momento es que usted desarrolle conocimientos, habilidades y actitudes para el desarrollo de un traslado de cadáver.
                   
           .row(numero="4" titulo="¿Cómo finalizar este componente de formación?")
-            .col-md-12.mb-4.mb-md-0.px-4
+            .col-md-12.mb-4.mb-md-0.px-4.padding-lineaTop
               ul.lista-ul
                 li 
                   i.fas.fa-angle-right
-                  p.mb-0 Mantener una disciplina de estudio de acuerdo a los tiempos que tienes para este componente de formación.
+                  p.mb-0 Mantener una disciplina de estudio de acuerdo a los tiempos que tiene para este componente de formación.
                   
                 li 
                   i.fas.fa-angle-right
@@ -58,7 +58,7 @@
                   
                 li 
                   i.fas.fa-angle-right
-                  p.mb-0 Si tienes dudas con respecto a su proceso no dudes en escribirle un correo a su instructor.
+                  p.mb-0 Si tiene inquietudes con respecto a su proceso, no dude en escribirle un correo a su instructor.
                   
       .cajon.color-primario.p-4.mb-5
         p.mb-0 Teniendo claras algunas condiciones para aprender, se debe recordar que el traslado de cadáveres requiere de conocimientos y habilidades previas para brindar una experiencia a los deudos que conlleve a una despedida de su ser querido a partir de sus necesidades y creencias.

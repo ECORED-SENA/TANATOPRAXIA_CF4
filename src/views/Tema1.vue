@@ -15,7 +15,7 @@
       .col-lg-8.mb-2.align-self-end
         p.mb-4 Pensar en el servicio al cliente en el contexto del sector funerario conlleva a entender la necesidad respecto a la adquisición de un servicio para el traslado de un resto mortal. La atención que realice la organización funeraria tanto de los deudos como al resto mortal, debe implementarse desde los protocolos de bioseguridad hasta el respeto a las emociones de los deudos.
         .cajon.color-secundario.p-4
-          p.mb-0 Para prestar un servicio al cliente durante un traslado de un resto mortal es necesario entender qué es un servicio al cliente: ¿qué es para usted un servicio al cliente? ¿Qué características tiene un servicio al cliente en el contexto funerario? Para más información revisar el siguiente recurso educativo.
+          p.mb-0 Para prestar un servicio al cliente durante un traslado de un resto mortal es necesario entender qué es un servicio al cliente: ¿qué es para usted un servicio al cliente?, ¿qué características tiene un servicio al cliente en el contexto funerario? Para más información revisar el siguiente recurso educativo.
 
     p.mb-4 El servicio al cliente son todas las acciones implementadas para los clientes en el proceso de la compra de un producto o servicio, iniciando desde el antes, pasando por el durante y terminado después de la compra. Todo esto encaminado a cumplir con las exigencias del cliente y su satisfacción.
     .bloque-texto-a.color-secundario.p-4.p-md-4.mb-5
@@ -45,7 +45,7 @@
         figure
           img.mx-auto(src='@/assets/curso/tema1/card4.svg', alt='Habilidad para la comunicación', style='width:218px;')
       
-    p.mb-4 Se hecho una aproximación al servicio al cliente, pero ¿quién es el cliente? Según Pérez (2016): 
+    p.mb-4 Se ha hecho una aproximación al servicio al cliente, pero ¿quién es el cliente? Según Pérez (2016): 
 
     .row.justify-content-center
       .col-lg-11
@@ -85,27 +85,41 @@
         p.mb-4 Por ello, desde el primer contacto del cliente con la funeraria hasta la finalización del servicio, se debe trabajar para que el deudor se sienta comprendido, valorado, apoyado y acompañado. Esta es la tarea de todo el personal de la funeraria. Algunos aspectos que el cliente funerario espera en todo servicio es obtener información clara y rápida, asesoramiento de los trámites legales necesarios, atención humana y personalizada, un servicio de calidad y profesionalidad e intimidad. 
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 Como ya se ha mencionado, la atención que precisa el cliente de los servicios funerarios es diferente porque no es un cliente voluntario, debido a que no ha decidido buscar algo que necesita y que pueda comparar entre varias empresas. Estos clientes cuentan con características especiales, entre ellas  se encuentran:
-
+    
     .row.justify-content-center
-      .col-lg-4.mb-4
-        figure(style='')
-          img.mx-auto(src='@/assets/curso/tema1/img7.jpg', alt='imagen ambiental', style='width:398px; border-top: #1D272B solid 6px')
-        .p-4(style='background-color: #F6F6F6; box-shadow: 0 0 15px rgba(0,0,0,.3)')
-          p.mb-5 Los clientes llegan a la funeraria de una manera precipitada e inesperada, aunque sea un fallecimiento inminente siempre se acude con cierto grado de desorientación.
+      
+      .col-auto.mb-4.px-2
+        .tarjeta.tarjeta-container-Larga.tarjeta-larga2
+          .tarjetaLarga-basic1
+            .tarjetaImgL
+              figure.mb-3
+                img.mx-auto(src="@/assets/curso/tema1/img7.jpg", alt="icono", style="width:398px;")
+              .px-3
+                .bg-num1
+                    p.pb-5 Los clientes llegan a la funeraria de una manera precipitada e inesperada, aunque sea un fallecimiento inminente siempre se acude con cierto grado de desorientación.
+      
+      .col-auto.mb-4.px-2
+        .tarjeta.tarjeta-container-Larga.tarjeta-larga1
+          .tarjetaLarga-basic1
+            .tarjetaImgL
+              figure.mb-3
+                img.mx-auto(src="@/assets/curso/tema1/img8.jpg", alt="icono", style="width:398px;")
+              .px-3
+                .bg-num2
+                    p.pb-5 Los clientes se encuentran en estado emocional complejo, ya que la noticia del fallecimiento de un ser amado es un golpe duro y doloroso. Este estado puede dificultar la realización de algunos trámites, lo que puede provocar que el trato con ellos no sea fácil.
 
-      .col-lg-4.mb-4
-        figure(style='')
-          img.mx-auto(src='@/assets/curso/tema1/img8.jpg', alt='imagen ambiental', style='width:398px; border-top: #00978E solid 6px')
-        .p-4(style='background-color: #F6F6F6; box-shadow: 0 0 15px rgba(0,0,0,.3)')
-          p.mb-0 Los clientes se encuentran en estado emocional complejo, ya que la noticia del fallecimiento de un ser amado es un golpe duro y doloroso. Este estado puede dificultar la realización de algunos trámites, lo que puede provocar que el trato con ellos no sea fácil.
-
-      .col-lg-4.col-sm-auto.mb-4
-        figure(style='')
-          img.mx-auto(src='@/assets/curso/tema1/img9.jpg', alt='imagen ambiental', style='width:398px; border-top: #1D272B solid 6px')
-        .p-4(style='background-color: #F6F6F6; box-shadow: 0 0 15px rgba(0,0,0,.3)')
-          p.pb-4.mb-5 Los clientes pueden ser muy exigentes, por lo regular se busca obtener el mejor servicio, buscando la relación calidad precio.
-
-    p.mb-4 Para realizar la atención en un servicio funerario se deben conocer los deseos y las expectativas del cliente, pero para esto se necesita que la empresa funeraria tenga claras sus directrices para así, cumplir con estas necesidades. Por todo lo anterior el personal contará con capacidades básicas en servicio al cliente funerario, como son:
+      .col-auto.mb-4.px-2
+        .tarjeta.tarjeta-container-Larga.tarjeta-larga2
+          .tarjetaLarga-basic1
+            .tarjetaImgL
+              figure.mb-3
+                img.mx-auto(src="@/assets/curso/tema1/img9.jpg", alt="icono", style="width:398px;")
+              .px-3
+                .bg-num3
+                    p.pb-5 Los clientes pueden ser muy exigentes, por lo regular se busca obtener el mejor servicio, buscando la relación calidad precio.
+    
+    
+    p.mb-4 Para realizar la atención en un servicio funerario se deben conocer los deseos y las expectativas del cliente, pero para esto se necesita que la empresa funeraria tenga claras sus directrices para así cumplir con estas necesidades. Por todo lo anterior, el personal contará con capacidades básicas en servicio al cliente funerario, como son:
 
     .row.justify-content-center.mb-4
       .col-auto.mb-2
@@ -121,7 +135,7 @@
         figure(style='')
           img.mx-auto(src='@/assets/curso/tema1/img13.svg', alt='Profesionalismo y eficacia', style='width:218px;')
 
-    p.mb-4 Todo esto para mostrar respeto hacia el dolor que sufren los clientes, y no solamente es decirlo sino también respetar profundamente sus expresiones de dolor, sus creencias, costumbres y deseos, sin juzgar lo que la familia hace, dice, cree u opina; por eso es de gran ayuda disponer y desarrollar habilidades a la hora de comunicarse y desenvolverse con algunos tipos de personas que están pasando por un momento de estrés e inestabilidad emocional, como lo es la pérdida de ser querido.
+    p.mb-4 Todo esto para mostrar respeto hacia el dolor que sufren los clientes, y no solamente es decirlo sino también respetar profundamente sus expresiones de dolor, sus creencias, costumbres y deseos, sin juzgar lo que la familia hace, dice, cree u opina; por eso es de gran ayuda disponer y desarrollar habilidades a la hora de comunicarse y desenvolverse con algunos tipos de personas que están pasando por un momento de estrés e inestabilidad emocional, como lo es la pérdida de ser un querido.
 
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between

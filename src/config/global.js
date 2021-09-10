@@ -118,19 +118,19 @@ export default {
   referencias: [
     {
       referencia:
-        'Corte Suprema de Justicia de Colombia (2013). Cadena de Custodia-Concepto, finalidad conformación y forma de realizar la cadena de custodia.',
+        'Corte Suprema de Justicia de Colombia (2013). Cadena de Custodia-Concepto, finalidad conformación y forma de realizar la cadena de custodia. ',
       link:
         'https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/spa/CONCEPTO.pdf',
     },
     {
       referencia:
-        'Fiscalía General de la Nación. (2018). Manual del Sistema de Cadena de Custodia.',
+        'Fiscalía General de la Nación. (2018). Manual del Sistema de Cadena de Custodia. ',
       link:
         'https://www.fiscalia.gov.co/colombia/wp-content/uploads/MANUAL-DEL-SISTEMA-DE-CADENA-DE-CUSTODIA.pdf',
     },
     {
       referencia:
-        'ICONTEC (2015). Sistema de Gestión de la Calidad- NTC-ISO 9001.',
+        'ICONTEC (2015). Sistema de Gestión de la Calidad- NTC-ISO 9001. ',
       link:
         'https://e-collection-icontec-org.bdigital.sena.edu.co/pdfview/viewer.aspx?locale=en-US&Q=18DA2EE329823ACFD353E72B04A3271B2B1DA961E0A07526&Req=',
     },
@@ -141,71 +141,72 @@ export default {
     },
     {
       referencia:
-        'Innovación y Cualificación, S. L. y Pablo Blanco, M (2019). Atención al cliente y calidad en el servicio. ',
+        'Innovación y Cualificación, S. L. y Pablo Blanco, M (2019). Atención al cliente y calidad en el servicio.  ',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=13304',
     },
     {
       referencia:
-        'Kübler-Ross, E y Kessler, D. (2017). Sobre el duelo y dolor. Ediciones Luciérnaga.',
+        'Kübler-Ross, E y Kessler, D. (2017). Sobre el duelo y dolor. Ediciones Luciérnaga. ',
     },
     {
       referencia:
-        'Ley 906 de 2004 [Congreso de Colombia]. "Por la cual se expide el Código de Procedimiento Penal. (Corregida de conformidad con el Decreto 2770 de 2004).',
+        'Ley 906 de 2004 [Congreso de Colombia]. "Por la cual se expide el Código de Procedimiento Penal. (Corregida de conformidad con el Decreto 2770 de 2004). ',
       link:
         'https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_906_2004.pdf',
     },
     {
       referencia:
-        'Ley 9 de 1979 [Congreso de Colombia], Por la cual se dictan Medidas Sanitarias.',
+        'Ley 9 de 1979 [Congreso de Colombia], Por la cual se dictan Medidas Sanitarias. ',
       link:
         'https://www.minsalud.gov.co/Normatividad_Nuevo/LEY%200009%20DE%201979.pdf',
     },
     {
       referencia:
-        'Medina, W. D. (2009). Calidad, Productividad y Competitividad: La salida de la crisis. Madrid: Diaz de Santos.',
-      link:
-        'https://issuu.com/librospdfgratis/docs/calidad__productividad_y_competitividad_409',
+        'Medina, W. D. (2009). Calidad, Productividad y Competitividad: La salida de la crisis. Madrid: Diaz de Santos. ',
+      /*link:
+        'https://books.google.com.pe/books?id=d9WL4BMVHi8C&printsec=frontcover&hl=es#v=onepage&q&f=false',
+      'https://issuu.com/librospdfgratis/docs/calidad__productividad_y_competitividad_409',*/
     },
     {
       referencia:
-        'Meza Dávalos, E; García, Silvia; Torres Gómez, A; Castillo, L. Sauri Suárez, S; Martínez, S. (2008). El proceso del duelo. Un mecanismo humano para el manejo de las pérdidas emocionales. Revista de Especialidades Médico-Quirúrgicas. Vol. 13, núm. 1, enero-marzo, 2008, pp. 28-31. Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado México.',
+        'Meza Dávalos, E; García, Silvia; Torres Gómez, A; Castillo, L. Sauri Suárez, S; Martínez, S. (2008). El proceso del duelo. Un mecanismo humano para el manejo de las pérdidas emocionales. Revista de Especialidades Médico-Quirúrgicas. Vol. 13, núm. 1, enero-marzo, 2008, pp. 28-31. Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado México. ',
       link: 'https://www.redalyc.org/pdf/473/47316103007.pdf',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social de Colombia (2020). Orientaciones para el manejo, traslado y disposición Final de cadáveres por covid-19.',
+        'Ministerio de Salud y Protección Social de Colombia (2020). Orientaciones para el manejo, traslado y disposición Final de cadáveres por covid-19. ',
       link:
         'https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GIPG08.pdf',
     },
     {
       referencia:
-        'Montoya, César y Boyero, Martín (2013). El CRM como herramienta para el servicio al cliente en la organización. Revista Científica “Visión de futuro”. Volumen 17, número 1. Argentina. pp. 130-151.',
+        'Montoya, César y Boyero, Martín (2013). El CRM como herramienta para el servicio al cliente en la organización. Revista Científica “Visión de futuro”. Volumen 17, número 1. Argentina. pp. 130-151. ',
       link:
         'https://revistacientifica.fce.unam.edu.ar/index.php?option=com_content&view=article&id=250&Itemid=58',
     },
     {
       referencia:
-        'Pérez, V. (2016). Calidad total en la atención al cliente. Pautas para garantizar la excelencia en el servicio.',
+        'Pérez, V. (2016). Calidad total en la atención al cliente. Pautas para garantizar la excelencia en el servicio. ',
       link:
         'https://www.academia.edu/8910048/CALIDAD_TOTAL_EN_LA_ATENCI%C3%93N_AL_CLIENTE_Pautas_para_Garantizar_la_Excelencia_en_el_Servicio',
     },
     {
       referencia:
-        'Posada, S. (2005). El manejo del duelo. Grupo editorial Norma',
+        'Posada, S. (2005). El manejo del duelo. Grupo editorial Norma. ',
     },
     {
       referencia:
-        'Rodríguez, D. (2012) ¿Quieres incrementar el nivel servicio al cliente en tu negocio?.',
-      link:
-        'http://www.crecesco.com/2011/10/cual-es-la%20definición-de-servicio-al.html',
+        'Rodríguez, D. (2012) ¿Quieres incrementar el nivel servicio al cliente en tu negocio? ',
+      /*link:
+        'http://www.crecesco.com/2011/10/cual-es-la%20definición-de-servicio-al.html',*/
     },
     {
-      referencia: 'Renedo, P. (2021). Cortometraje el duelo. [Video] YouTube.',
+      referencia: 'Renedo, P. (2021). Cortometraje el duelo. [Video] YouTube. ',
       link: 'https://www.youtube.com/watch?v=UR1JfYA0zHQ',
     },
     {
       referencia:
-        'Red Producción de Contenidos Grupo Gestión Curricular SENA. (2021). Equipo de protección personal. [Video] YouTube:',
+        'Red Producción de Contenidos Grupo Gestión Curricular SENA. (2021). Equipo de protección personal. [Video] YouTube: ',
       link: 'https://www.youtube.com/watch?v=iDnhA8nPFsM&t=1s',
     },
   ],
@@ -241,7 +242,7 @@ export default {
       descarga: '/downloads/proceso-del-duelo.pdf',
     },
     {
-      texto: 'Renedo, P. (2021). Cortometaje DUELO. [Video] Youtube.',
+      texto: 'Renedo, P. (2021). Cortometraje DUELO. [Video] Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=UR1JfYA0zHQ',
     },
@@ -275,29 +276,31 @@ export default {
       {
         nombre: 'Jhacesiz Mary Hincapié Atehortúa',
         cargo:
-          'Instructora (EPC) – Líder desarrollo curricular Servicios Personales',
+          'Instructora (EPC) – Líder desarrollo curricular servicios personales',
         centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
       {
         nombre: 'Adriana Maria Bustamante Cataño',
-        cargo: 'Profesional de Diseño y producción curricular',
+        cargo: 'Profesional de diseño y producción curricular',
         centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
       {
         nombre: 'Cristian Metaute Medina',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica del SENA - Regional Distrito Capital',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
-        nombre: 'Carolina Coca Salazar',
-        cargo: 'Revisión metodológica y pedagógica',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital ',
       },
       {
-        nombre: 'Darío González',
-        cargo: 'Corrección de estilo',
-        centro: 'Centro Agropecuario La Granja - Regional Tolima',
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital ',
       },
     ],
     desarrolloProducto: [

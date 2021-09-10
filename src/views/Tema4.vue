@@ -34,7 +34,7 @@
     #t_4_1.titulo-segundo
       .h2 4.1 Traslado inicial
 
-    p.mb-5 El traslado inicial es mover un cadáver, ya sean restos humanos o restos óseos, desde el sitio original de deceso (casa, centro hospitalario o morgue) hasta las funerarias, donde se continuará con la prestación del servicio. Este proceso se inicia con la recepción del cadáver una vez realizados los acuerdos con el cliente sobre la prestación del servicio funerario. Para iniciar el traslado inicial se debe:
+    p.mb-5 El traslado inicial es mover un cadáver, ya sean restos humanos o restos óseos, desde el sitio original de deceso (casa, centro hospitalario o morgue) hasta las funerarias, donde se continuará con la prestación del servicio. Este proceso se inicia con la recepción del cadáver una vez realizados los acuerdos con el cliente sobre la prestación del servicio funerario. Para empezar el traslado inicial se debe:
     
     .row.fondo-verde--margen.mb-5(style='background: linear-gradient(180deg,#ffffff,#71C6C1, #ffffff);')
       .col-lg-12.px-5.mt-5.fondo-verde
@@ -54,7 +54,7 @@
           .col-md-5.mb-4.mb-md-0.align-self-center
             h4 Usar elementos de protección
             .cajon-b.abajo-derecha.color-primario.p-0.mb-5
-              p.mb-0 Gafas, guantes, tapabocas y traje de protección antiluidos - Bata. La selección y uso correcto de los elementos mencionados son un mecanismo exigido por lineamientos sanitarios. Cuando usted los implementa está disminuyendo riesgos biológicos, químicos o físicos para la sociedad y usted. 
+              p.mb-0 Gafas, guantes, tapabocas y traje de protección antifluidos - bata. La selección y uso correcto de los elementos mencionados son un mecanismo exigido por lineamientos sanitarios. Cuando usted los implementa está disminuyendo riesgos biológicos, químicos o físicos para la sociedad y usted. 
           .col-md-5.mb-4.mb-md-0
             figure
               img.mx-auto(src='@/assets/curso/tema4/img5.jpg', alt='elementos de protección', style="width: 456px;")
@@ -66,7 +66,7 @@
           .col-md-5.mb-4.mb-md-0.align-self-center
             h4.mb-4 Disponer el cadáver en condiciones de aislamiento y aseguramiento dentro del vehículo
             .cajon-b.color-primario.p-0.mb-5
-              p.mb-0 Para esto del vehículo funerario contará con espacio separado y destinado para tal fin, donde se ubicará la camilla con el fallecido, el sistema de retención deberá estar correctamente ajustado al cuerpo del fallecido para evitar el volcamiento del cuerpo por movimientos bruscos o accidentes de tránsito. La camilla deberá fijarse en el piso de esta cámara de aislamiento para evitar movimientos bruscos que produzcan lesiones en el fallecido al golpearse contra las paredes de este. También se hará uso de un cobertor de plástico para cubrir el cuerpo del fallecido.
+              p.mb-0 Para esto el vehículo funerario contará con espacio separado y destinado para tal fin, donde se ubicará la camilla con el fallecido, el sistema de retención deberá estar correctamente ajustado al cuerpo del fallecido para evitar el volcamiento del cuerpo por movimientos bruscos o accidentes de tránsito. La camilla deberá fijarse en el piso de esta cámara de aislamiento para evitar movimientos bruscos que produzcan lesiones en el fallecido al golpearse contra las paredes de este. También se hará uso de un cobertor de plástico para cubrir el cuerpo del fallecido.
               
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0.align-self-center
@@ -96,17 +96,17 @@
               img(src='@/assets/curso/tema4/img9.jpg', alt='Desinfección de vehículo funerario', style="width: 456px;")
     
     
-    p.mb-4 Realizado el traslado, es importante ampliar la información en relación con la desinfección, entendiendo esta como la eliminación de microorganismos patógenos que se encuentran en objetos o material y que visiblemente no es posible percibirlos a simple vista, es por ello, que se necesitan productos más fuertes para que penetren más a fondo y puedan eliminar microorganismos. Algunos de estos productos son: hipoclorito de sodio y amonios cuaternarios. A continuación se puede ver la caracterización de cada uno de estos productos.
+    p.mb-4 Realizado el traslado, es importante ampliar la información en relación con la desinfección, entendiendo esta como la eliminación de microorganismos patógenos que se encuentran en objetos o material y que visiblemente no es posible percibirlos a simple vista, es por ello, que se necesitan productos más fuertes para que penetren más a fondo y puedan eliminar microorganismos. Algunos de estos productos son: hipoclorito de sodio y amonios cuaternarios. A continuación, se puede ver la caracterización de cada uno de estos productos.
 
     .row.justify-content-center.mb-4
       .col-lg-7
         .cajon.color-secundario.p-4.mb-2
-          p.mb-0 Empezando por el hipoclorito de sodio, uno de los desinfectantes más comúnmente usados en el campo funerario. El principio activo de esta solución es la liberación de cloro molecular que al mezclarse con agua genera el ácido hipocloroso; la efectividad de este compuesto se disminuirá por el pH, debido a que actúa mejor en un pH neutro que ácido, la presencia de material orgánica y su nivel de exposición a la luz, Se recomienda realizar su dilución en contenedores opacos.
+          p.mb-0 Empezando por el hipoclorito de sodio, uno de los desinfectantes más comúnmente usados en el campo funerario. El principio activo de esta solución es la liberación de cloro molecular que al mezclarse con agua genera el ácido hipocloroso; la efectividad de este compuesto se disminuirá por el pH, debido a que actúa mejor en un pH neutro que ácido, la presencia de materia orgánica y su nivel de exposición a la luz, Se recomienda realizar su dilución en contenedores opacos.
       .col-lg-5
         figure
           img(src='@/assets/curso/tema4/img10.jpg', alt='Hipoclorito de sodio', style="width: 456px;")
 
-    p.mb-5 La medición de la concentración de cloro activo es fundamental para determinar la cantidad del desinfectante a usar, este se mide en partes por millón (PPM) o gramos por litro (gr/l) de modo que 1000 PPM=1 gr/l o lo que es lo mismo 1 PPM = 1 mg/l. Ahora, para hacer la dilución de una solución concentrada de hipoclorito de sodio se utiliza la siguiente ecuación:
+    p.mb-5 La medición de la concentración de cloro activo es fundamental para determinar la cantidad del desinfectante a usar, este se mide en partes por millón (PPM) o gramos por litro (gr/l) de modo que 1000 PPM = 1 gr/l o lo que es lo mismo 1 PPM = 1 mg/l. Ahora, para hacer la dilución de una solución concentrada de hipoclorito de sodio se utiliza la siguiente ecuación:
 
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -238,27 +238,27 @@
         .tarjeta-numerada.color-primario.px-5.pb-2(style='padding-top: 30px; border-bottom: solid  2px #AFAFAF;')
           .tarjeta-numerada__numero
             .h1 b
-          p.mb-4 Determinar de acuerdo con los convenios internacionales existentes los sistemas de preservación de cadáveres cuando su traslado se haga fuera de los límites de la nación.
+          p.mb-4 Determinar de acuerdo con los convenios internacionales existentes, los sistemas de preservación de cadáveres, cuando su traslado se haga fuera de los límites de la nación.
         
         .tarjeta-numerada.color-primario.px-5.pb-2(style='padding-top: 30px; border-bottom: solid  2px #AFAFAF;')
           .tarjeta-numerada__numero
             .h1 c
-          p.mb-4 Fijar los requisitos que deberán cumplir las personas y establecimientos autorizables para el embalsamamiento de cadáveres y determinar cuáles son las técnicas más adecuadas;
+          p.mb-4 Fijar los requisitos que deberán cumplir las personas y establecimientos autorizables para el embalsamamiento de cadáveres y determinar cuáles son las técnicas más adecuadas.
         
         .tarjeta-numerada.color-primario.px-5.pb-2(style='padding-top: 30px; border-bottom: solid  2px #AFAFAF;')
           .tarjeta-numerada__numero
             .h1 d
-          p.mb-4 En concordancia con los convenios internacionales, establecer las condiciones que, en cuanto a número, material de fabricación y hermetismo deberán llenar los ataúdes y los embalajes de estos cuando el traslado se haga fuera del país.
+          p.mb-4 En concordancia con los convenios internacionales, establecer las condiciones que, en cuanto a número, material de fabricación y hermetismo, deberán llenar los ataúdes y los embalajes de estos, cuando el traslado se haga fuera del país.
         
         .tarjeta-numerada.color-primario.px-5.pb-2(style='padding-top: 30px; border-bottom: solid  2px #AFAFAF;')
           .tarjeta-numerada__numero
             .h1 e
-          p.mb-4 Determinar los requisitos que deberán reunión los vehículos destinados al transporte de cadáveres.
+          p.mb-4 Determinar los requisitos que deberán reunir los vehículos destinados al transporte de cadáveres.
           
         .tarjeta-numerada.color-primario.px-5.pb-2(style='padding-top: 30px;')
           .tarjeta-numerada__numero
             .h1 f
-          p.mb-4 Establecer los requisitos de orden sanitario que se deberán llenar ante los consulados de la nación para que estos puedan autorizar el trámite hacia el país, reglamentado la constatación correspondiente por parte de las autoridades sanitarias.
+          p.mb-4 Establecer los requisitos de orden sanitario que se deberán llenar ante los consulados de la nación para que estos puedan autorizar el trámite hacia el país, reglamentando la constatación correspondiente por parte de las autoridades sanitarias.
           
       .col-lg-5.align-self-center
         figure.mb-2
@@ -269,9 +269,9 @@
         figure.mb-2
           img.mx-auto(src="@/assets/curso/tema4/img15.jpg", alt="Traslado de cadaver a su país", style="width:366px;")
       .col-lg-8
-        p.mb-4 Cuando se realiza un traslado con motivo de repatriación, se seguirán los lineamientos del Acuerdo Internacional sobre el transporte de cadáveres dado Berlín en 1937, donde se establecen una reglamentación para que los diferentes países adscritos a este acuerdo acepten la entrada, o el paso en tránsito por sus respectivos territorios, de los cadáveres de personas fallecidas en el territorio de alguno de los demás países. Entre sus disposiciones generales se dicta que, sin importar la vía de transporte, ni las condiciones de los cadáveres se necesita un permiso de tránsito especial donde claramente se encuentre especificado: nombres completos, edad, lugar, fecha y causa de fallecimiento, todo esto expedido por la autoridad competente del lugar del fallecimiento.
+        p.mb-4 Cuando se realiza un traslado con motivo de repatriación, se seguirán los lineamientos del Acuerdo Internacional sobre el transporte de cadáveres dado en Berlín en 1937, donde se establece una reglamentación para que los diferentes países adscritos a este acuerdo acepten la entrada, o el paso en tránsito por sus respectivos territorios, de los cadáveres de personas fallecidas en el territorio de alguno de los demás países. Entre sus disposiciones generales se dicta que, sin importar la vía de transporte, ni las condiciones de los cadáveres se necesita un permiso de tránsito especial donde claramente se encuentre especificado: nombres completos, edad, lugar, fecha y causa de fallecimiento, todo esto expedido por la autoridad competente del lugar del fallecimiento.
 
-    p.mb-5 También se deberá adjuntar el acta de defunción y testimonios oficiales que determinen que el transporte no representa un riesgo para la salud pública y que las condiciones necesarias de embalaje cumplen con los requisitos. El embalaje de los cadáveres para el traslado debe realizarse con materiales impermeables, que sean resistentes y absorban cualquier filtración de líquido y generación de olores, aclarando las características de adentro hacia fuera. Estos son:
+    p.mb-5 También se deberá adjuntar el acta de defunción y testimonios oficiales que determinen que el transporte no representa un riesgo para la salud pública y que las condiciones necesarias de embalaje cumplen con los requisitos. El embalaje de los cadáveres para el traslado debe realizarse con materiales impermeables, que sean resistentes y absorban cualquier filtración de líquido y generación de olores, aclarando las características de adentro hacia afuera. Estos son:
     
     .row.justify-content-center.mb-5
 
@@ -285,8 +285,10 @@
             .tarjetaTxt2
               figure.mb-3
                 img(src="@/assets/curso/tema4/img16.jpg", alt="imagen ambiental", style="width:290px;").m-auto
-              p.mb-2 #[strong  Primer ataúd]
-              p.mb-0 Uso de un ataúd no reutilizable, ya que está en contacto con el cuerpo, de material no impermeable, a prueba de filtraciones y que garantice un cierre hermético y sobre todo resistente a la manipulación.
+              .px-3
+                .bg-num1
+                  p.mb-2 #[strong  Primer ataúd]
+                  p.mb-0 Uso de un ataúd no reutilizable, ya que está en contacto con el cuerpo, de material no impermeable, a prueba de filtraciones y que garantice un cierre hermético y sobre todo resistente a la manipulación.
     
       .col-auto.mb-4.px-2
         .tarjeta.tarjeta-container2.tarjeta-verde
@@ -298,8 +300,10 @@
             .tarjetaTxt3
               figure.mb-3
                 img(src="@/assets/curso/tema4/img17.jpg", alt="imagen ambiental", style="width:290px;").m-auto
-              p.mb-2 #[strong Material absorbente]
-              p.mb-0 Material cuya función es la retención de líquidos que pudiesen salir del cuerpo y quedar atrapados en el primer ataúd. Este material se encuentra entre el primer y segundo ataúd, no se permite el uso del aserrín de madera.
+              .px-3
+                .bg-num2
+                  p.mb-2 #[strong Material absorbente]
+                  p.mb-0 Material cuya función es la retención de líquidos que pudiesen salir del cuerpo y quedar atrapados en el primer ataúd. Este material se encuentra entre el primer y segundo ataúd, no se permite el uso del aserrín de madera.
     
       .col-auto.mb-4.px-2
         .tarjeta.tarjeta-container2.tarjeta-oscura
@@ -311,8 +315,10 @@
             .tarjetaTxt2
               figure.mb-3
                 img(src="@/assets/curso/tema4/img18.jpg", alt="imagen ambiental", style="width:290px;").m-auto
-              p.mb-2 #[strong Segundo ataúd]
-              p.mb-0 Elaborado en un material resistente, de fácil limpieza y desinfección, a prueba de filtraciones y que sirve para contener el ataúd número uno y protegerlo del medio circundante.
+              .px-3
+                .bg-num3
+                  p.mb-2 #[strong Segundo ataúd]
+                  p.pb-4 Elaborado en un material resistente, de fácil limpieza y desinfección, a prueba de filtraciones y que sirve para contener el ataúd número uno y protegerlo del medio circundante.
     
       .col-auto.mb-4.px-2
         .tarjeta.tarjeta-container2.tarjeta-verde
@@ -324,8 +330,10 @@
             .tarjetaTxt3
               figure.mb-3
                 img(src="@/assets/curso/tema4/img19.jpg", alt="imagen ambiental", style="width:290px;").m-auto
-              p.mb-2 #[strong Recubrimiento final]
-              p.mb-0 Es revestir el segundo ataúd con un material resistente (cartón grueso de alto calibre y asas de sujeción) que permita su manipulación por parte de las aerolíneas y su personal.
+              .px-3
+                .bg-num4
+                  p.mb-2 #[strong Recubrimiento final]
+                  p.mb-0 Es revestir el segundo ataúd con un material resistente (cartón grueso de alto calibre y asas de sujeción) que permita su manipulación por parte de las aerolíneas y su personal.
     
     p.mb-4 Dentro de las actividades de inspección, vigilancia y control realizadas por la autoridad sanitaria, está la verificación de las condiciones de embalaje, inspección física y los requerimientos documentales. Una vez se cumpla con lo anteriormente descrito, se expedirá la autorización para la salida del territorio nacional, si por el contrario se realiza es la salida, se deberá expedir un salvoconducto.
     
@@ -370,7 +378,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-9
           .bloque-texto-a__texto.p-4
-            p Para el envío de cadáveres y restos óseos al exterior, o sea, para su salida, la autoridad sanitaria certifica que el cadáver y su ataúd cumplen con los requisitos sanitarios exigidos por el país de destino, para esto se requiere contar con la siguiente documentación: 1. Certificado de defunción; 2. Registro civil de defunción; 3. Licencia de inhumación o cremación, que aclare el destino final del cadáver; 4. Declaración de embalsamamiento y embalaje; 5. Licencia de exhumación, si es el caso del transporte de restos óseos y 6. Autorización para el traslado otorgado por el país de destino y que tiene que ser tramitado ante el consulado, embajada o representación diplomática. Por último, si el existiese en tránsito de cadáveres y restos óseos por el país, se contará con:
+            p Para el envío de cadáveres y restos óseos al exterior, o sea, para su salida, la autoridad sanitaria certifica que el cadáver y su ataúd cumplen con los requisitos sanitarios exigidos por el país de destino, para esto se requiere contar con la siguiente documentación: 1. Certificado de defunción; 2. Registro civil de defunción; 3. Licencia de inhumación o cremación, que aclare el destino final del cadáver; 4. Declaración de embalsamamiento y embalaje; 5. Licencia de exhumación, si es el caso del transporte de restos óseos y 6. Autorización para el traslado otorgado por el país de destino y que tiene que ser tramitado ante el consulado, embajada o representación diplomática. Por último, si existiese el tránsito de cadáveres y restos óseos por el país, se contará con:
         .col-lg-3.mb-4.mb-lg-0
           figure
             img.mx-auto(src='@/assets/curso/tema4/img21.svg', alt='imagen ambiental', style='width:300px;')
@@ -452,7 +460,7 @@
     
     .row.justify-content-center.mb-4
       .col-lg-8.mb-2
-        p.mb-0 Algunos de los principios generales para la gestión de cadáveres infectados con COVID-19 son en primer lugar la gestión de cadáveres, con casos confirmados o sospechosos por COVID-19, la evaluación preliminar y realizar el análisis de los riesgos. En segundo lugar, el personal encargado del transporte de estos cuerpos debe estar especialmente entrenado. En tercer y último lugar, los procedimientos realizados deben limitar la exposición al virus para así prevenir la propagación de este y respetar la dignidad de la persona fallecida durante todo el proceso. Así si llegase a existir prácticas culturales que sean incompatibles con estas las medidas necesarias, se debe hacer lo necesario para que la familia entienda y acepte estas medidas.
+        p.mb-0 Algunos de los principios generales para la gestión de cadáveres infectados con COVID-19, son en primer lugar, la gestión de cadáveres con casos confirmados o sospechosos por COVID-19, la evaluación preliminar y la realización del análisis de los riesgos. En segundo lugar, el personal encargado del transporte de estos cuerpos debe estar especialmente entrenado. En tercer y último lugar, los procedimientos realizados deben limitar la exposición al virus para así prevenir la propagación de este y respetar la dignidad de la persona fallecida durante todo el proceso. Así, si llegase a existir prácticas culturales que sean incompatibles con estas medidas imprescindibles, se debe hacer lo necesario para que la familia las entienda y las acepte.
       .col-lg-4.mb-2
         figure
           img.mx-auto(src="@/assets/curso/tema4/img27.svg", alt="imagen ambiental", style="width:360px;")
@@ -464,7 +472,7 @@
             img.mx-auto(src='@/assets/curso/tema4/img28.svg', alt='imagen ambiental', style='width:258px;')
         .col-lg-9
           .bloque-texto-a__texto.p-4
-            p.mb-2 Las personas que participen en la manipulación física de los cuerpos de las personas fallecidas por la COVID-19 deben de tomar precauciones en la manipulación de cadáveres con COVID-19 para evitar un posible contagio. Observa el siguiente video titulado “Equipo de protección personal”, donde se explican métodos para la apropiada manipulación de personas fallecidas por el COVID 19.
+            p.mb-2 Las personas que participen en la manipulación física de los cuerpos de las personas fallecidas por COVID-19 deben tomar precauciones en la manipulación de los cadáveres, para evitar un posible contagio. Observa el siguiente video titulado “Equipo de protección personal”, donde se explican métodos para la apropiada manipulación de personas fallecidas por el COVID 19.
             .row.justify-content-end
               .col-auto
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=iDnhA8nPFsM&t=1s" target="_blank" style='background-color: #f5f5f5')
@@ -476,7 +484,7 @@
                         b-none(style="color: #12263f") Equipo de protección personal. 
                         b(style="color: #12263f") COVID-19
 
-    p.mb-4 Adicional a lo mencionado, dentro de las actividades de los prestadores de servicios de salud y de los servicios funerarios en el marco de las personas fallecidas por el COVID-19, deberán notificar la muerte de forma inmediata a la Secretaría de Salud y al Instituto Nacional de Salud (INS), usando la ficha epidemiológica 348 Infección Respiratoria Aguda (IRA) y posteriormente realizar el aislamiento de cadáver en el mismo sitio de defunción, utilizando los elementos de protección personal y seguir procedimientos de bioseguridad. Para este procedimiento se seguirán los siguientes pasos:
+    p.mb-4 Adicional a lo mencionado, dentro de las actividades de los prestadores de servicios de salud y de los servicios funerarios en el marco de las personas fallecidas por el COVID-19, deberán notificar la muerte de forma inmediata a la Secretaría de Salud y al Instituto Nacional de Salud (INS), usando la ficha epidemiológica 348 Infección Respiratoria Aguda (IRA) y posteriormente realizar el aislamiento del cadáver en el mismo sitio de defunción, utilizando los elementos de protección personal y seguir procedimientos de bioseguridad. Para este procedimiento se seguirán los siguientes pasos:
 
     .tarjeta.tarjeta-fondito.p-4.mb-5
       SlyderA
@@ -510,7 +518,7 @@
               img(src='@/assets/curso/tema4/img32.jpg', alt='Limpieza y desinfección del area', style="width: 456px;")
           .col-md-6.col-lg-5.mb-4.mb-md-0.align-self-center
             .cajon-b.color-primario.p-0.mb-4
-              p.mb-0 Luego del retiro del cuerpo la habitación u área de atención donde se realizó el aislamiento anteriormente descrito deberá pasar por un proceso de limpieza y desinfección siguiendo las recomendaciones del comité de infecciones. Al igual se realizará la desinfección del vehículo y elementos usados durante el traslado.
+              p.mb-0 Luego del retiro del cuerpo, la habitación u área de atención donde se realizó el aislamiento anteriormente descrito, deberá pasar por un proceso de limpieza y desinfección siguiendo las recomendaciones del comité de infecciones. Al igual se realizará la desinfección del vehículo y elementos usados durante el traslado.
               
 
     .row.justify-content-center.mb-4
@@ -520,7 +528,7 @@
             img.mx-auto(src='@/assets/curso/tema2/icon9.svg' alt='AvatarTop' style='width:158px;')
           .tarjeta.tarjeta-white--color-red(style='border-radius:0;')
             .p-4.ps-0.pt-5
-              p.mb-0 La seguridad y salud de las personas que intervienen en la gestión de cadáveres es una prioridad. Por ello se debe de proporcionar equipos de protección personal y capacitación adecuada para la realización de un proceso ajustado a las directrices para el manejo de cadáveres con el COVID-19. Todas estas medidas deben demostrar respeto hacia sus familiares y comunidades afectadas, y contemplando consideraciones especiales para sus prácticas y rituales culturales y religiosos.
+              p.mb-0 La seguridad y salud de las personas que intervienen en la gestión de cadáveres es una prioridad. Por ello, se debe proporcionar equipos de protección personal y capacitación adecuada para la realización de un proceso ajustado a las directrices para el manejo de cadáveres con COVID-19. Todas estas medidas deben demostrar respeto hacia sus familiares y comunidades afectadas, y contemplando consideraciones especiales para sus prácticas y rituales culturales y religiosos.
 
 
 

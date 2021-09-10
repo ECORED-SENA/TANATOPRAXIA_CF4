@@ -29,7 +29,7 @@
               img.mx-auto(src='@/assets/curso/tema3/img3.svg', alt='imagen ambiental', style='width:770px;')
             LineaTiempoD.color-acento-contenido.mb-5
               p(numero="1" titulo="Autenticidad") Es la correspondencia entre el elemento material probatorio recolectado, embalado, transportado y almacenado que sea analizado para determinar su capacidad probatoria del hecho punible.
-              p(numero="2" titulo="Almacenamiento") Es la aplicación de instrumentos administrativos paa resguardar los elementos materiales, con el fin de evitar su pérdida o daño.
+              p(numero="2" titulo="Almacenamiento") Es la aplicación de instrumentos administrativos para resguardar los elementos materiales, con el fin de evitar su pérdida o daño.
               p(numero="3" titulo="Capacidad demostrativa") Cualidad de un elemento material probatorio que mediante diferentes análisis (técnico o científico), puede aportar información con capacidad probatoria.
               p(numero="4" titulo="Continuidad") La forma cronológica ininterrumpida en la cadena de custodia de los elementos materiales probatorios.
               p(numero="5" titulo="Identidad") Es una descripción detallada de los elementos materiales probatorios recolectados, embalados, almacenados o transportados que registre su estado físico, locación y apariencia.
@@ -89,7 +89,7 @@
             img.mx-auto(src='@/assets/curso/tema3/img5.svg', alt='imagen ambiental', style='width:286px;')
         .col-lg-9
           .bloque-texto-a__texto.p-4
-            p.mb-2 En el contexto colombiano existen diferentes literaturas que explican el proceso a seguir en la cadena de custodia. Con la intención que usted desarrolle conocimiento para que explique elementos que debe considerar cuando entra en contacto con elementos probatorios, le invitamos a leer las páginas 10, 11 y 15 del texto
+            p.mb-2 En el contexto colombiano existen diferentes literaturas que explican el proceso a seguir en la cadena de custodia. Con la intención que usted desarrolle conocimiento para que explique elementos que debe considerar cuando entra en contacto con elementos probatorios, le invitamos a leer las páginas 10, 11 y 15 del texto 
               b #[i “Manual del Sistema de Cadena de Custodia”] 
               b-none (2018).
             .row.justify-content-end

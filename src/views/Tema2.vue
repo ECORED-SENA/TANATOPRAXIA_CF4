@@ -8,7 +8,7 @@
         span 2
       h1 El duelo
     
-    p.mb-5 Tanto el duelo como los sentimientos que se asocian a él, son un factor que se deben de tener en cuenta en el momento de la prestación del servicio del funerario, aunque los trabajadores funerarios no sean los especialistas en el manejo del duelo, sí se deben conocer sus manifestaciones básicas, para brindar y otorgar la ayuda necesaria al cliente. 
+    p.mb-5 Tanto el duelo como los sentimientos que se asocian a él, son factores que se deben tener en cuenta en el momento de la prestación del servicio funerario; aunque los trabajadores funerarios no sean los especialistas en el manejo del duelo, sí se deben conocer sus manifestaciones básicas, para brindar y otorgar la ayuda necesaria al cliente. 
       b #[i Se preguntará, ¿qué es el duelo? ]
       b-none Según Posada (2005), lo define como la respuesta psicológica -sentimiento y pensamiento- que se presenta ante la pérdida de un ser querido. Esta respuesta puede ser subjetiva y depende del sistema mental y emocional de quien lo vive. Las creencias que tenga quien lo sufre, modifica su expresión y desarrollo, haciéndolo más manejable o complejo de tratar en algunos casos. Algunos estados que pueden padecer los deudos ante un descenso de un cuerpo son:
 
@@ -46,7 +46,7 @@
                 .tarjeta
                   .p-4.text-start
                     h4 Fase de negación
-                    p.mb-0 Suele presentar en los deudos como una negación del descenso del cuerpo de un ser querido. En esta fase aparece la rabia, ira  o enfado, as cuales son emociones que protegen a los deudos de la noticia recibida. En esta fase es común que los dolientes empiecen a buscar culpables.
+                    p.mb-0 Suele presentarse en los deudos como una negación del descenso del cuerpo de un ser querido. En esta fase aparece la rabia, ira  o enfado, las cuales son emociones que protegen a los deudos de la noticia recibida. En esta fase es común que los dolientes empiecen a buscar culpables.
                 .tarjeta-avatar-b__img(style='')
                   img.mx-auto(src='@/assets/curso/tema2/icon2.svg' alt='AvatarTop' style='width: 90px;')
           .row
@@ -57,7 +57,7 @@
                 .tarjeta
                   .p-4
                     h4 Fase de aceptación
-                    p.mb-0 Este momento se caracteriza por la aceptación de la muerte por parte de deudo. La persona se da cuenta que la muerte de su ser querido es real e irreparable.
+                    p.mb-0 Este momento se caracteriza por la aceptación de la muerte por parte del deudo. La persona se da cuenta que la muerte de su ser querido es real e irreparable.
           .row
             .col-md-12.mb-4.mb-md-0
               .tarjeta-avatar-b.mb-0
@@ -89,11 +89,11 @@
           p(numero="4" titulo="Muerte de personas de edad avanzada") El sufrimiento de la familia depende de la calidad de vida que tuviese el ser querido al momento de su deceso, por ejemplo si la persona no tenía buen estado de salud tanto físico como mental, los familiares tienden a sufrir menos de dolor y pena, ya que toman este suceso como un alivio tanto para ellos como para el fallecido.
           p(numero="5" titulo="Muerte de un hijo") Se considera entre las muertes más difíciles de superar, su dolor puede tardar años en superarse y el sentimiento de culpa es mayor que en otros casos, porque los padres sienten que han fallado en su rol de cuidador-protector.
           p(numero="6" titulo="Muerte de un progenitor") El dolor de esta muerte también suele ser profundo dependiendo de la edad del progenitor y el tipo de relación que se tenía con el ser querido, entre mayor apego mayor dolor. El hijo (a) tendrá sentimientos de desolación y desamparo.
-          p(numero="7" titulo="Muertes múltiples") Este tipo de muertes son por sí mismas más difíciles de superar debido a que no es solo un miembro de la familia quien ha fallecido, son más y probablemente el círculo de personas que pudiesen apoyar el proceso de duelo por ello en este tipo de muertes los sobrevivientes tienen sentimientos de irrealidad total, incredulidad, angustia y desespero. Normalmente el estado inicial de shock es más profundo y toma más tiempo salir de este.
+          p(numero="7" titulo="Muertes múltiples") Este tipo de muertes son por sí mismas más difíciles de superar debido a que no es solo un miembro de la familia quien ha fallecido, son más y probablemente el círculo de personas que pudiesen apoyar el proceso de duelo; por ello, en este tipo de muertes los sobrevivientes tienen sentimientos de irrealidad total, incredulidad, angustia y desespero. Normalmente el estado inicial de shock es más profundo y toma más tiempo salir de este.
         
 
     .cajon.color-secundario.p-4.mb-5
-      p.mb-0 Es importante destacar que la forma en cómo se vive el duelo depende de factores como la edad del fallecido, tipo de muerte, relación con el fallecido y por último la ayuda y apoyo que se recibe por parte de los familiares. Existen ciertos cuidados primarios para la atención de los deudos, ¿cuáles son? A continuación se presentan las características que usted debe considerar en un momento de duelo.
+      p.mb-0 Es importante destacar que la forma en cómo se vive el duelo depende de factores como la edad del fallecido, tipo de muerte, relación con el fallecido y por último la ayuda y apoyo que se recibe por parte de los familiares. Existen ciertos cuidados primarios para la atención de los deudos, ¿cuáles son? A continuación, se presentan las características que usted debe considerar en un momento de duelo.
 
     .row.justify-content-center.mb-5
       .col-lg-11

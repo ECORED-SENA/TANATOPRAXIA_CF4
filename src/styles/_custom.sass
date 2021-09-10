@@ -226,8 +226,7 @@ $tarjeta-dimension-weight2: 290px
       background-position: top
       background-size: auto
       background-repeat: no-repeat
-      p
-        padding-inline: 1rem
+      
     .tarjetaTxt3
       display: flex
       flex-direction: column
@@ -241,14 +240,33 @@ $tarjeta-dimension-weight2: 290px
       background-position: top
       background-size: auto
       background-repeat: no-repeat
-      p
-        padding-inline: 1rem
+      
     
   
   &:hover
     .tarjetaContent2
       top: -($tarjeta-dimension-height2)
-
+.bg-num1
+  background: url('../assets/curso/tema4/bgNum1.png')
+  background-position: left top
+  background-size: auto
+  background-repeat: no-repeat
+.bg-num2
+  background: url('../assets/curso/tema4/bgNum2.png')
+  background-position: left top
+  background-size: auto
+  background-repeat: no-repeat
+.bg-num3
+  background: url('../assets/curso/tema4/bgNum3.png')
+  background-position: left top
+  background-size: auto
+  background-repeat: no-repeat
+.bg-num4
+  background: url('../assets/curso/tema4/bgNum4.png')
+  background-position: left top
+  background-size: auto
+  background-repeat: no-repeat
+  
 /////////////////ENDDDDD HOVERRRRR TARJETAS LARGAS//////////////////////
 /*TARJETA BASICA NOT HOVER*/
 
@@ -263,8 +281,6 @@ $tarjeta-dimension-weight2: 290px
   .tarjetaContent-basic
     .tarjetaImgX
       border-top: 7px solid #D93328
-    
-
 
 $tarjeta-dimension-height3: 240px
 $tarjeta-dimension-weight3: 270px
@@ -290,15 +306,51 @@ $tarjeta-dimension-weight3: 270px
       height: $tarjeta-dimension-height3
       padding: 2rem
       text-align: center
-
-
-
-
-
-
-
-
 /*ENDDDD TARJETA BASICA NOT HOVER*/
+
+//TARJETAS-----LARGAS-----NOOO HOVERRRRR-----------
+
+
+.tarjeta-larga1
+  background: linear-gradient(180deg,#d1ebea,#d1ebea)
+  box-shadow: 0 0 15px rgba(0,0,0,.3)
+  .tarjetaLarga-basic1
+    .tarjetaImgL
+      border-top: 7px solid #008F85
+  
+.tarjeta-larga2
+  background: linear-gradient(180deg,#f5f5f5,#f6f6f6)
+  box-shadow: 0 0 15px rgba(0,0,0,.3)
+  .tarjetaLarga-basic1
+    .tarjetaImgL
+      border-top: 7px solid #1d272b
+
+$tarjeta-dimension-weight4: 400px
+$tarjeta-dimension-height4: 450px
+
+.tarjeta-container-Larga
+  position: relative
+  overflow: hidden
+  width: $tarjeta-dimension-weight4
+  height: $tarjeta-dimension-height4
+  border-radius: 0    
+  
+  .tarjetaLarga-basic1
+    position: relative    
+    top: 0 
+    left: 0      
+    transition: all 0.45s 0s ease
+    .tarjetaImgL
+      display: flex
+      flex-direction: column
+      justify-content: start
+      align-items: center          
+      width: $tarjeta-dimension-weight4
+      height: $tarjeta-dimension-height4
+      padding: 0rem
+      text-align: start
+
+/*ENDDDD ------TARJETAS-----LARGAS-----NOOO HOVERRRRR
 
 
 
@@ -340,6 +392,16 @@ $tarjeta-dimension-weight3: 270px
   .img-size2
     width: 350px
 
+@media screen and ( max-width: $bp-max-md)
+  .padding-lineaTop
+    padding-top: 1rem
+@media screen and ( max-width: $bp-max-sm)
+  $tarjeta-dimension-weight4: 250px
+  .tarjeta-container-Larga
+    width: $tarjeta-dimension-weight4
+    .tarjetaLarga-basic1
+      .tarjetaImgL
+        width: $tarjeta-dimension-weight4
 
 
 
