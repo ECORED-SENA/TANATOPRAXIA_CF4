@@ -135,7 +135,7 @@
         figure(style='')
           img.mx-auto(src='@/assets/curso/tema1/img13.svg', alt='Profesionalismo y eficacia', style='width:218px;')
 
-    p.mb-4 Todo esto para mostrar respeto hacia el dolor que sufren los clientes, y no solamente es decirlo sino también respetar profundamente sus expresiones de dolor, sus creencias, costumbres y deseos, sin juzgar lo que la familia hace, dice, cree u opina; por eso es de gran ayuda disponer y desarrollar habilidades a la hora de comunicarse y desenvolverse con algunos tipos de personas que están pasando por un momento de estrés e inestabilidad emocional, como lo es la pérdida de ser un querido.
+    p.mb-4 Todo esto para mostrar respeto hacia el dolor que sufren los clientes, y no solamente es decirlo sino también respetar profundamente sus expresiones de dolor, sus creencias, costumbres y deseos, sin juzgar lo que la familia hace, dice, cree u opina; por eso es de gran ayuda disponer y desarrollar habilidades a la hora de comunicarse y desenvolverse con algunos tipos de personas que están pasando por un momento de estrés e inestabilidad emocional, como lo es la pérdida de un ser querido.
 
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between

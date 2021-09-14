@@ -135,7 +135,7 @@ export default {
         'https://e-collection-icontec-org.bdigital.sena.edu.co/pdfview/viewer.aspx?locale=en-US&Q=18DA2EE329823ACFD353E72B04A3271B2B1DA961E0A07526&Req=',
     },
     {
-      referencia: 'ICONTEC (2017) Norma técnica colombiana NTC 5840.',
+      referencia: 'ICONTEC (2017) Norma técnica colombiana NTC 5840. ',
       link:
         'https://e-collection-icontec-org.bdigital.sena.edu.co/pdfview/viewer.aspx?locale=es-ES&Q=AF60935720F13C6466C0297B7F80FF16&Req=',
     },
