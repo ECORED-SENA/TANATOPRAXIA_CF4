@@ -163,9 +163,9 @@ export default {
     {
       referencia:
         'Medina, W. D. (2009). Calidad, Productividad y Competitividad: La salida de la crisis. Madrid: Diaz de Santos. ',
-      /*link:
+      link:
         'https://books.google.com.pe/books?id=d9WL4BMVHi8C&printsec=frontcover&hl=es#v=onepage&q&f=false',
-      'https://issuu.com/librospdfgratis/docs/calidad__productividad_y_competitividad_409',*/
+      /*'https://issuu.com/librospdfgratis/docs/calidad__productividad_y_competitividad_409',*/
     },
     {
       referencia:
