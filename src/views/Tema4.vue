@@ -23,7 +23,7 @@
             figure
               img.mx-auto(src='@/assets/curso/tema4/img3.svg', alt='Traslado final', style='width:218px;')
         
-      .col-xl-4.col-lg-6.mb-4.align-self-center
+      .col-8.col-lg-6.col-xl-4.mb-4.align-self-center
         figure
           img.mx-auto(src='@/assets/curso/tema4/img4.svg', alt='imagen ambiental', style='width:435px;')
 
@@ -207,7 +207,7 @@
             .h1 a
           p.mb-4 Determinar los requisitos generales que se deberán cumplir cuando el traslado se haga dentro del territorio nacional y, particularmente, en este mismo caso, aquellos relacionados con la preservación de los cadáveres, teniendo en cuenta los siguientes factores:
           .row(style='justify-content: space-around')
-            .col-lg-3
+            .col-7.col-lg-3.mb-4.mb-lg-0
               figure.mb-2
                 img.mx-auto(src="@/assets/curso/tema4/img13.svg", alt="imagen ambiental", style="width:456px;")
             .col-lg-8
@@ -260,7 +260,7 @@
             .h1 f
           p.mb-4 Establecer los requisitos de orden sanitario que se deberán llenar ante los consulados de la nación para que estos puedan autorizar el trámite hacia el país, reglamentando la constatación correspondiente por parte de las autoridades sanitarias.
           
-      .col-lg-5.align-self-center
+      .col-8.col-lg-5.align-self-center
         figure.mb-2
           img.mx-auto(src="@/assets/curso/tema4/img14.svg", alt="imagen ambiental", style="width:526px;")
     
@@ -426,7 +426,7 @@
       p.mb-0 En este traslado se deberá tener especial cuidado con el ataúd y la forma de conducción, para así evitar accidentes que afecten la finalización del servicio funerario. Los aspectos para considerar son:
     
     .row.justify-content-center.mb-4
-      .col-lg-4.align-self-center
+      .col-7.col-lg-4.align-self-center
         figure.mb-4
           img.mx-auto(src="@/assets/curso/tema4/img22.svg", alt="imagen ambiental", style="width:435px;")
       .col-lg-8
