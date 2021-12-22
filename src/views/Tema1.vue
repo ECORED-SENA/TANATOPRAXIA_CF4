@@ -144,7 +144,7 @@
             p.mb-2 En esta sección del componente de formación se describieron algunos aspectos relacionados con el servicio al cliente. Con la intención que usted siga construyendo conocimiento en torno a esta temática le sugerimos revisar el texto “Atención al cliente y calidad en el servicio” especialmente las unidades de aprendizaje: importancia de la atención al cliente y la comunicación. Fases en la atención al cliente. Este texto fue escrito por Innovación y Cualificación, S. L., Miguel Ángel Mateos de Pablo Blanco en el año 2019.
             .row.justify-content-end
               .col-auto
-                a.anexo.mb-4.mb-lg-0(href="https://www.google.com/url?q=https://www-ebooks7-24-com.bdigital.sena.edu.co/stage.aspx?il%3D%26pg%3D%26ed%3D&sa=D&source=editors&ust=1631026531697000&usg=AOvVaw3WGhDhWsG3MJa-aK_aXBiz" target="_blank" style='background-color: #f6f6f6;')
+                a.anexo.mb-4.mb-lg-0(href="https://login.bdigital.sena.edu.co/login?url=https://www.ebooks7-24.com/stage.aspx?il=&pg=&ed=" target="_blank" style='background-color: #f6f6f6;')
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto

@@ -38,7 +38,7 @@
                   i.fas.fa-angle-right
                   p.mb-0 Usted tiene a su disposición un conjunto de recursos de aprendizaje para desarrollar conocimientos, habilidades y actitudes. Entre ellos: gráficos, videos, textos de los autores del componente y otros.
                   
-          .row(numero="3" titulo="Cuál es el propósito de este momento de aprendizaje?")
+          .row(numero="3" titulo="¿Cuál es el propósito de este momento de aprendizaje?")
             .col-md-12.mb-4.mb-md-0.px-4.padding-lineaTop
               ul.lista-ul
                 li 

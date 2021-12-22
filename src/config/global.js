@@ -150,7 +150,7 @@ export default {
     },
     {
       referencia:
-        'Ley 906 de 2004 [Congreso de Colombia]. "Por la cual se expide el Código de Procedimiento Penal. (Corregida de conformidad con el Decreto 2770 de 2004). ',
+        'Ley 906 de 2004 [Congreso de Colombia]. "Por la cual se expide el Código de Procedimiento Penal. (Corregida de conformidad con el Decreto 2770 de 2004)". ',
       link:
         'https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_906_2004.pdf',
     },

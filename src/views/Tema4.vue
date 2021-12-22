@@ -371,7 +371,7 @@
           li 
             .lista-ol--cuadro__vineta
               span #[strong 6]
-            p.mb-0 Certificado que el ataúd sólo contiene el cadáver en cuestión, deberá estar firmado por quien responda por este procedimiento y contar con los datos de la funeraria.
+            p.mb-0 Certificado que el ataúd solo contiene el cadáver en cuestión, deberá estar firmado por quien responda por este procedimiento y contar con los datos de la funeraria.
     
 
     .bloque-texto-a.color-secundario.p-4.p-md-5(style='margin-bottom:60px;')
@@ -491,7 +491,7 @@
         .row.justify-content-center
           .col-md-6.col-lg-5.mb-4.mb-md-0.align-self-center
             .cajon-b.abajo-derecha.color-primario.p-0.mb-4
-              p.mb-0 Usar algodón impregnado en solución desinfectante para cubrir orificios naturales, envolver en tela antifluido o sábana el cadáver completamente sin retirar ningún elemento usado para su tratamiento. Luego embalar el cadáver usando una bolsa anteriormente mencionada, rociar con desinfectante el interior de esta antes de realizar el cierre final, posteriormente desinfectar el exterior de la bolsa. Luego se coloca la primera bolsa dentro de la segunda, y se repite el procedimiento de desinfección. Culminado este proceso, quien manipuló el cadáver deberá realizar la desinfección externa de los guantes usados con alcohol isopropílico al 70%.
+              p.mb-0 Usar algodón impregnado en solución desinfectante para cubrir orificios naturales, envolver en tela antifluido o sábana el cadáver completamente sin retirar ningún elemento usado para su tratamiento. Luego embalar el cadáver usando una bolsa anteriormente mencionada, rociar con desinfectante el interior de esta antes de realizar el cierre final, posteriormente desinfectar el exterior de la bolsa. Luego se coloca la primera bolsa dentro de la segunda, y se repite el procedimiento de desinfección. Culminado este proceso, quien manipuló el cadáver deberá realizar la desinfección externa de los guantes usados con alcohol isopropílico al 70 %.
           .col-md-6.col-lg-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema4/img29.jpg', alt='Envolver cadaver en tela antifluido', style="width: 456px;")
